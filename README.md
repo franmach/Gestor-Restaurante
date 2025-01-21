@@ -63,7 +63,12 @@ Este proyecto fue desarrollado como parte de la asignatura **Programación III**
 ---
 
 ## Capturas de Pantalla
-(Inserta imágenes representativas, como la página de inicio, el panel de administración y la vista de reservas.)
+![image](https://github.com/user-attachments/assets/c45370ac-f54a-4209-9ccd-d5b79de3975b)
+![image](https://github.com/user-attachments/assets/cb627c62-955d-4cc2-a558-a078f529e4ec)
+![image](https://github.com/user-attachments/assets/05c73a1e-63a6-4dcb-91e7-31b2ff485926)
+![image](https://github.com/user-attachments/assets/f993e96c-eaa8-4822-a28e-9955e9861280)
+![image](https://github.com/user-attachments/assets/f5e415cf-b2f6-4e7c-9671-0e213da73708)
+![image](https://github.com/user-attachments/assets/a9e7504b-25bc-416c-9e15-db6a58843f4c)
 
 ---
 
